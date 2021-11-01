@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\user\\Documents\\Test\\docker-elk-main\\src\\logs\\.6dbe2aa17c3668d384034dadd06ecf41fc8a19ac-audit.json",
+    "files": [
+        {
+            "date": 1635302389794,
+            "name": "C:\\Users\\user\\Documents\\Test\\docker-elk-main\\src\\logs\\2021-10-27.log",
+            "hash": "fa1f3632cad4bf5f2b9540e149fe2234"
+        }
+    ]
+}
